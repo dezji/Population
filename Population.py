@@ -1,7 +1,4 @@
 # Author Name: Deziallia Morris
-# Date: 9/19/2021
-# Program Name: Morris_Population.py
-# Purpose:
 
 # Set up variables and get user input to store in variables
 startingOrganisms = int(input("Starting organisms: "))
